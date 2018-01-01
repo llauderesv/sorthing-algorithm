@@ -10,7 +10,7 @@ namespace SortingAlgorithm
             int[] items = { 5, 2, 3, 4, 1, 0, -6, -6, 1, 2, 5, -10 };
 
             /*
-                Buble Sort Pseudocode:
+                Bubble Sort Pseudocode:
                     Outer loop
                         var i = 5;
                         
@@ -75,7 +75,7 @@ namespace SortingAlgorithm
 
             #region Insertion Sort Algorithm
 
-            /* for (int i = 0; i < items.Length; i++)
+            for (int i = 0; i < items.Length; i++)
             {
                 for (int j = i + 1; j > 0 && j < items.Length; j--)
                 {
@@ -99,16 +99,15 @@ namespace SortingAlgorithm
                 Console.Write("{0}  ", items[k]);
             }
             
-            */
 
             #endregion
 
 
             /*
-                 Selection Sort Pseudocode
+                Selection Sort Pseudocode
 
 
-                    Find the lowest element in the array and place it in the index
+                Find the lowest element in the array and place it in the index
 
                     1. Loop First in entire array (Outer loop) ...
                     2. Find the most lowest element in the array (Inner loop)...
