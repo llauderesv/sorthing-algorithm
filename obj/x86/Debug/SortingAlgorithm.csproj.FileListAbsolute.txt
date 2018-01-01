@@ -1,0 +1,5 @@
+/Users/vincentllauderes/Projects/SortingAlgorithm/SortingAlgorithm/bin/Debug/SortingAlgorithm.exe
+/Users/vincentllauderes/Projects/SortingAlgorithm/SortingAlgorithm/bin/Debug/SortingAlgorithm.pdb
+/Users/vincentllauderes/Projects/SortingAlgorithm/SortingAlgorithm/obj/x86/Debug/SortingAlgorithm.csproj.CoreCompileInputs.cache
+/Users/vincentllauderes/Projects/SortingAlgorithm/SortingAlgorithm/obj/x86/Debug/SortingAlgorithm.exe
+/Users/vincentllauderes/Projects/SortingAlgorithm/SortingAlgorithm/obj/x86/Debug/SortingAlgorithm.pdb
