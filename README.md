@@ -2,7 +2,7 @@
 
 This is made in C# Programming Language.
 
-The following are sorting algo. includes in the project.
+The following are sorting algorithm includes in the project.
 
 * Bubble Sort
 * Insertion Sort
