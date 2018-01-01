@@ -1,6 +1,12 @@
 # Data Structures (Sorting Algorithm)
 
-This was made in C# Language
+This is made in C# Programming Language.
+
+The following are sorting algo. includes in the project.
+
+* Bubble Sort
+* Insertion Sort
+* Selection Sort
 
 
 
